@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Hir!</h1>
 
-<!--
-**H-1709/H-1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Engineering Student (IT) from Ahmedabad, India <br/>
+  🚀 Passionate about MERN Stack, DSA, and AI <br/>
+  🔧 Building logic one problem at a time! <br/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🎓 Currently pursuing Bachelor's in Information Technology
+- 📚 Learning: `MERN Stack`, `Data Structures and algorithm`, and `AI`
+- 🌱 Growing my skills through open source & daily coding
+- 💼 Contributor @ Open Source Connect India 🇮🇳
+- 🤖 Future goal: Become an AI-powered full-stack developer 
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:    JavaScript • HTML • CSS • C • C++ • Java  
+Frameworks:   React • Node.js • Express.js  
+Database:     MongoDB  
+Tools:        Git • GitHub • VS Code • Postman • npm
