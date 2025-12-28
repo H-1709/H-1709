@@ -5,33 +5,23 @@
 
 I’m an engineering student from India, focused on building **strong problem-solving skills**, writing **clean code**, and developing **real-world projects** that reflect how production systems actually work.
 
-I believe in learning by building — not just tutorials, but systems with logic, structure, and scalability in mind.
+I believe in learning by building - not just tutorials, but systems with logic, structure, and scalability in mind.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 **Languages**
-- C, C++
-- Java (DSA & logic building)
-- JavaScript
+- C, C++ - Java (DSA & logic building) - JavaScript
 
 **Web & Backend**
-- React, Next.js
-- Node.js, Express
-- MongoDB
+- React, Next.js - Node.js, Express - MongoDB
 
 **Core CS Concepts**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Basic System Design
-- REST APIs
+- Data Structures & Algorithms - Object-Oriented Programming - Basic System Design - REST APIs
 
 **Tools**
-- Git & GitHub
-- VS Code
-- Postman
-
+- Git & GitHub - VS Code - Postman
 ---
 
 ## 📌 What I’m Currently Doing
@@ -40,18 +30,14 @@ I believe in learning by building — not just tutorials, but systems with logic
 - Improving code readability and architecture  
 - Preparing for internships and entry-level IT roles  
 
-(Yes, the grind is real — but so are the commits.)
-
 ---
 
 ## 📂 Featured Projects
 - **Smart Interview Scheduler** – Skill-based candidate & interviewer matching system  
 - **Mini Search Engine** – Java-based indexing and lookup logic  
 - **Portfolio Website** – React + Vite personal portfolio  
-- **MERN Practice Projects** – CRUD, APIs, and UI polish  
 
 👉 Check my repositories below for code and documentation.
-
 ---
 ## check out my portfolio 
 PORTFOLIO LINK : https://portfolio-react-alpha-ebon.vercel.app/
