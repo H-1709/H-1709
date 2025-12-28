@@ -12,16 +12,16 @@ I believe in learning by building - not just tutorials, but systems with logic, 
 ## 🛠️ Tech Stack & Skills
 
 **Languages**
-- C, C++ - Java (DSA & logic building) - JavaScript
+- C, C++ , Java (DSA & logic building) , JavaScript
 
 **Web & Backend**
-- React, Next.js - Node.js, Express - MongoDB
+- React, Next.js , Node.js, Express , MongoDB
 
 **Core CS Concepts**
-- Data Structures & Algorithms - Object-Oriented Programming - Basic System Design - REST APIs
+- Data Structures & Algorithms , Object-Oriented Programming , Basic System Design , REST APIs
 
 **Tools**
-- Git & GitHub - VS Code - Postman
+- Git & GitHub , VS Code , Postman
 ---
 
 ## 📌 What I’m Currently Doing
