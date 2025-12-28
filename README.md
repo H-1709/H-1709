@@ -1,27 +1,67 @@
 <h1 align="center">Hi there 👋, I'm Hir!</h1>
 
-<p align="center">
-  💻 Engineering Student (IT) from Ahmedabad, India <br/>
-  🚀 Passionate about MERN Stack, DSA, and AI <br/>
-  🔧 Building logic one problem at a time! <br/>
-</p>
+
+🎓 Engineering Student | 💻 Aspiring Software Engineer | 🚀 IT & Full-Stack Enthusiast  
+
+I’m an engineering student from India, focused on building **strong problem-solving skills**, writing **clean code**, and developing **real-world projects** that reflect how production systems actually work.
+
+I believe in learning by building — not just tutorials, but systems with logic, structure, and scalability in mind.
 
 ---
 
-### 💡 About Me
+## 🛠️ Tech Stack & Skills
 
-- 🎓 Currently pursuing Bachelor's in Information Technology
-- 📚 Learning: `MERN Stack`, `Data Structures and algorithm`, and `AI`
-- 🌱 Growing my skills through open source & daily coding
-- 💼 Contributor @ Open Source Connect India 🇮🇳
-- 🤖 Future goal: Become an AI-powered full-stack developer 
+**Languages**
+- C, C++
+- Java (DSA & logic building)
+- JavaScript
+
+**Web & Backend**
+- React, Next.js
+- Node.js, Express
+- MongoDB
+
+**Core CS Concepts**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Basic System Design
+- REST APIs
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
 
 ---
 
-### 🛠️ Tech Stack
+## 📌 What I’m Currently Doing
+- Strengthening DSA and logic building  
+- Building full-stack projects for resume & internships  
+- Improving code readability and architecture  
+- Preparing for internships and entry-level IT roles  
 
-```bash
-Languages:    JavaScript • HTML • CSS • C • C++ • Java  
-Frameworks:   React • Node.js • Express.js  
-Database:     MongoDB  
-Tools:        Git • GitHub • VS Code • Postman • npm
+(Yes, the grind is real — but so are the commits.)
+
+---
+
+## 📂 Featured Projects
+- **Smart Interview Scheduler** – Skill-based candidate & interviewer matching system  
+- **Mini Search Engine** – Java-based indexing and lookup logic  
+- **Portfolio Website** – React + Vite personal portfolio  
+- **MERN Practice Projects** – CRUD, APIs, and UI polish  
+
+👉 Check my repositories below for code and documentation.
+
+---
+## check out my portfolio 
+PORTFOLIO LINK : https://portfolio-react-alpha-ebon.vercel.app/
+
+--- 
+
+## 📫 Let’s Connect
+- 📧 Email: **hirrajyaguru@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/hir-rajyaguru
+
+---
+
+⭐ If you like my work, feel free to star a repo — it motivates more than coffee.
