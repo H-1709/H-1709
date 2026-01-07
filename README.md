@@ -18,7 +18,7 @@ I believe in learning by building - not just tutorials, but systems with logic, 
 - React, Next.js , Node.js, Express , MongoDB
 
 **Core CS Concepts**
-- Data Structures & Algorithms , Object-Oriented Programming , Basic System Design , REST APIs
+- Data Structures & Algorithms , Object-Oriented Programming
 
 **Tools**
 - Git & GitHub , VS Code , Postman
